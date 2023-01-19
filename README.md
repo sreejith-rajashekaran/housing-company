@@ -23,6 +23,7 @@ Seaborn
 MatPlotLib
 ScikitLearn
 
+
 ## Conclusions
 The RMSE values of RIDGE is better than LASSO, but in order to have a more robust and generalised model, it is important to keep the complexity of the model to minimum. As you can see from our modelling exerise, RIDGE results in 220 predictor variabls making the model highly comples, where as LASSO results in 20 predictor variables making the model simple in nature. 
 
